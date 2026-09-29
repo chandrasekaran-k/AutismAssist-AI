@@ -1,0 +1,11 @@
+# Machine Learning Models
+
+The trained model artifacts are generated locally from the notebooks.
+
+### Models
+- ASD Screening — Random Forest Classifier
+- Therapy Recommendation — Multi-Output Random Forest
+
+The `.joblib` model files are excluded from the repository due to GitHub file-size/storage considerations.
+
+To generate the models, run the training notebooks in the `notebooks/` folder.
